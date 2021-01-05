@@ -23,6 +23,16 @@ This file contains clarifications pertaining to questions I could see being aske
     - Sure
   - in an online-first fashion?
     - Sure
+* Which platforms am I willing to use for video/voice/text chats?
+   - Jitsi (both self hosted and the [public version](https://meet.jit.si))
+   - BigBlueButton
+   - Telegram
+   - Signal
+   - Wire
+   - Mattermost
+   - Riot
+   - docs.plus
+   - Mumble   
 
 ## Editing
 
