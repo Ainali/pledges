@@ -4,7 +4,7 @@ This repository contains materials about things I am publicly committed to.
 
 ## Pledge
 
-I pledge to observe the following principles in my knowledge-related professional and volunteering activities:
+I pledge to observe the following principles in my knowledge-related volunteering and personal activities:
 
 1. only engage in activities where I see sufficient societal benefit;
 1. publicly document my insights into the societal benefits of activities that take up a major part of my time;
