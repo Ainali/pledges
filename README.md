@@ -18,4 +18,4 @@ I pledge to observe the following principles in my knowledge-related volunteerin
 
 ## Background and credits
 
-I have previously used [similar pledges](http://www.openbydefault.se/pledge/) when i ran Open By Default, inspired by [Erin McKiernan](https://emckiernan.wordpress.com/pledge/) and these were forked from Daniel Mitchen after his [new years tweet](https://twitter.com/EvoMRI/status/1344728435210514436). I might update them during the year.
+I have previously used [similar pledges](http://www.openbydefault.se/pledge/) when I ran Open By Default, inspired by [Erin McKiernan](https://emckiernan.wordpress.com/pledge/) and these were forked from Daniel Mietchen after his [new years tweet](https://twitter.com/EvoMRI/status/1344728435210514436). I might update them during the year.
