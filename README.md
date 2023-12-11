@@ -1,4 +1,4 @@
-# Pledges for 2021
+# Pledges for 2024
 
 This repository contains materials about things I am publicly committed to. 
 
@@ -13,9 +13,9 @@ I pledge to observe the following principles in my knowledge-related volunteerin
 1. release public outputs of my activities under an [open license](https://opendefinition.org/licenses/);
 1. present these principles as my starting point when negotiating collaborations with others;
 1. maintain a [list of frequently asked questions](faq.md) related to activities covered by these principles;
-1. allow for exceptions, and feed data about them into future versions of these principles.
+1. allow for exceptions, and feed data about them into future versions of these principles;
 1. review these principles at least annually and refine them as necessary.
 
 ## Background and credits
 
-I have previously used [similar pledges](http://www.openbydefault.se/pledge/) when I ran Open By Default, inspired by [Erin McKiernan](https://emckiernan.wordpress.com/pledge/) and these were forked from Daniel Mietchen after his [new years tweet](https://twitter.com/EvoMRI/status/1344728435210514436). I might update them during the year.
+I have previously used [similar pledges](http://www.openbydefault.se/pledge/) when I ran Open By Default, inspired by [Erin McKiernan](https://emckiernan.wordpress.com/pledge/) and these were forked from Daniel Mietchen after his [new years tweet](https://twitter.com/EvoMRI/status/1344728435210514436).
