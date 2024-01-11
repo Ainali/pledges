@@ -31,6 +31,7 @@ This file contains clarifications pertaining to questions I could see being aske
    - Wire
    - Mattermost
    - Riot
+   - Rocket chat
    - docs.plus
    - Mumble   
 
