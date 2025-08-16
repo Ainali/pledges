@@ -1,4 +1,4 @@
-# Pledges for 2024
+# Pledges
 
 This repository contains materials about things I am publicly committed to. 
 
